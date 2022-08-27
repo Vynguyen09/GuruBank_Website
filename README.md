@@ -1,4 +1,4 @@
-# GuruBank_Website
+# GuruBank_Web_Application
 This testing project is provided by Guru99.
 
 This project aims to practice building test data, test cases and tracking bugs throught various stages. 
@@ -6,7 +6,7 @@ This project aims to practice building test data, test cases and tracking bugs t
 ## Details:
 - Testing tool: Manual
 - Language: N/A
-- Documentation: MS Office, Open Office
+- Documentation: MS Office
 - Operating System: Windows 10, Chrome v.104
 
 ## References:
